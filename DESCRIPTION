@@ -27,3 +27,5 @@ Imports:
     xml2,
     tibble,
     progress
+URL: https://github.com/jjesusfilho/tjba
+BugReports: https://github.com/jjesusfilho/tjba/issues
