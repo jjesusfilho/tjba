@@ -26,6 +26,10 @@ Imports:
     httr,
     xml2,
     tibble,
-    progress
+    progress,
+    tuneR,
+    abjutils
 URL: https://github.com/jjesusfilho/tjba
 BugReports: https://github.com/jjesusfilho/tjba/issues
+Depends: 
+    R (>= 2.10)

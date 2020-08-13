@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+[![R build
+status](https://github.com/jjesusfilho/tjba/workflows/R-CMD-check/badge.svg)](https://github.com/jjesusfilho/tjba/actions)
 <!-- badges: end -->
 
 ## Instalação
