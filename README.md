@@ -11,4 +11,4 @@ status](https://github.com/jjesusfilho/tjba/workflows/R-CMD-check/badge.svg)](ht
 
 ## Instalação
 
-    devtools::install_githbu("jjesusfilho/tjba")
+    devtools::install_github("jjesusfilho/tjba")
