@@ -1,7 +1,7 @@
 #' Ler movimentação do TJBA
 #'
 #' @param arquivos Vetor de arquivos
-#' @param diretorio
+#' @param diretorio Informar diretório se não informar arquivos
 #'
 #' @return tibble
 #' @export

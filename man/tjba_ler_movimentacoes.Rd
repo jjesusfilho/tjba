@@ -9,7 +9,7 @@ tjba_ler_movimentacoes(arquivos = NULL, diretorio = ".")
 \arguments{
 \item{arquivos}{Vetor de arquivos}
 
-\item{diretorio}{}
+\item{diretorio}{Informar diretório se não informar arquivos}
 }
 \value{
 tibble

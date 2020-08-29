@@ -28,7 +28,8 @@ Imports:
     tibble,
     progress,
     tuneR,
-    abjutils
+    abjutils,
+    tidyr
 URL: https://github.com/jjesusfilho/tjba
 BugReports: https://github.com/jjesusfilho/tjba/issues
 Depends: 
